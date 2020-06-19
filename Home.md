@@ -4,9 +4,9 @@ I am Luke Eldridge, a software engineer based out of Portland, Oregon. I have us
 
 I am currently focusing on working with ReactJS, NodeJS, or Go based stacks, but I pride myself on being able to use whatever tool is necessary to get a job done.
 
-Contact: jleldridge27@gmail.com
+Contact: [jleldridge27@gmail.com](mailto:jleldridge27@gmail.com)
 
-Linkedin: linkedin.com/in/lukeeldridge27/
+Linkedin: [linkedin.com/in/lukeeldridge27/](https://linkedin.com/in/lukeeldridge27/)
 
 ## Skills
 
