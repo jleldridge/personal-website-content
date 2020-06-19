@@ -27,8 +27,7 @@ this time I was primarily focused on improving the software's UI,
 but I also created UI and backend code for data connectors that
 allow Datawatch software to connect to IBM Cognos TM1, IBM Cloudant,
 and streaming data sources. I primarily used C# and XAML, but there
-were occasions where I worked on backend code written in Java.  
-[Visit website](https://www.panopticon.com/)
+were occasions where I worked on backend code written in Java.
 
 ## Scrawler
 
