@@ -39,7 +39,8 @@ where I could polish the visuals, but it was eventually
 feature-complete enough to use it both to take notes, and to sketch
 and export the icons used in the app itself (hence the sketchy
 appearance of the icons).  
-[View source code](https://github.com/jleldridge/Scrawler)
+[View source code](https://github.com/jleldridge/Scrawler)  
+![scrawler-preview-picture.png](https://luke-eldridge.com/images/scrawler-preview-picture.png)
 
 ## Amoeboid
 
@@ -55,8 +56,9 @@ enemies, they gradually become larger, making more enemies edible,
 but also making it more difficult to maneuver around larger enemies.
 The game is won when there are no more enemies large enough to eat
 the player.  
-[You can try it out here!](https://jleldridge.github.io/Amoeboid/)  
-[View source code](https://github.com/jleldridge/Amoeboid)
+[you can try it out here!](https://jleldridge.github.io/Amoeboid/)  
+[View source code](https://github.com/jleldridge/Amoeboid)  
+![amoeboid-preview-picture.png](https://luke-eldridge.com/images/amoeboid-preview-picture.png)
 
 ## This Website
 
